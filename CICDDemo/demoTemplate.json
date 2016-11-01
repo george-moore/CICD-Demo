@@ -6,7 +6,7 @@
 	"resources": [],
 	"outputs": {
 		"result": {
-			"value": "Hello Ignite Again!",
+			"value": "Hello World!",
 			"type" : "string"
 		}
 	}
